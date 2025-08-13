@@ -69,11 +69,26 @@ body {
 }
 
 .feed {
+    display: grid;
     border-radius: 10px;
     width: 80%;
     margin: 5px;
     color: #454545;
     background-color: #d6d6d6;
+    place-items: center;
+
+    border-style: outset;
+}
+
+.post {
+    display: grid;
+    border-radius: 10px;
+    width: 90%;
+    margin: 3%;
+    padding-left: 3%;
+    padding-bottom: 3%;
+    color: #535050;
+    background-color: #e7e7e7;
 
     border-style: outset;
 }
