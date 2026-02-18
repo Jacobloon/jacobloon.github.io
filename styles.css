@@ -68,7 +68,7 @@ body {
     justify-content: space-between;
 }
 
-.feed {
+.highlights {
     display: grid;
     border-radius: 10px;
     width: 80%;
@@ -93,7 +93,7 @@ body {
     border-style: outset;
 }
 
-.highlights {
+.feed {
     border-radius: 10px;
     width: 20%;
     margin: 5px;
