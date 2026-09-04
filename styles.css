@@ -3,6 +3,12 @@
     src: url(fonts/CherryBombOne-Regular.ttf)
 }
 
+img {
+    width: 15%;
+    cursor: zoom-in;
+}
+
+
 body {
     font-family:'Courier New', Courier, monospace;
     /*background-color: #20caf5;*/
